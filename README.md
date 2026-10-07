@@ -3,5 +3,5 @@ Soon , I will also include the Fine tuning content by Vizuara Hands-On-LLM Cours
 
 Will be continuing this series for the Deep Learning series for better understanding of LLMs and more . Furthur will integrate some finetuning stuff!
 
-STEP-1:-QLoRA/LoRA practice
+STEP-1:-QLoRA / LoRA practice
 SETP-2:-Working on Small Language Models
